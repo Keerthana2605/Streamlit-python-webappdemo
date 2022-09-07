@@ -19,5 +19,6 @@ Streamlit is an open source app framework in Python language. It helps us create
 
 8)save as you code, rerun the app to see results.
 
+Instead of usning HTML, CSS and JS as seperate files and then integrating multiple files, Stramlit provides all 3 in one with the help of libraries, these libraries can be called and used the same way as in python. 
 The Streamlit app is pretty simple to use and can be helpful to create minimal dynamic webapps fast.
 
