@@ -1,11 +1,15 @@
-#import the streamlit as st like anyother python lib, after downloading streamlit in the same folder, useing pip instal streamlit (in terminal), test for successful working using streamlit hello(in terminal)
+#import the streamlit as st like anyother python lib, 
+#after downloading streamlit in the same folder, 
+#useing pip instal streamlit (in terminal), 
+#test for successful working using streamlit hello(in terminal)
 from email.mime import image
 import streamlit as st
 import pandas 
 import numpy 
 from PIL import Image
 
-#save and run app in terminal(command prompt- streamlit run osfy.py) , empty app runs in http://loaclhost:8510 , terminateapp with ctrl+c
+#save and run app in terminal(command prompt- streamlit run osfy.py) ,
+#empty app runs in http://loaclhost:8510 , terminateapp with ctrl+c
 
 st.title("Demo app for open source for you magazine")
 st.header("Tutorial on streamlit")
